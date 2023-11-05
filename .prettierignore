@@ -1,0 +1,6 @@
+node_modules
+README.md
+dist
+ios
+android
+src/i18n/lang/*.json
