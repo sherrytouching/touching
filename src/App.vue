@@ -5,7 +5,7 @@ import Hero from './components/Hero.vue'
 import NavBar from './components/NavBar.vue';
 import Service from './components/Service.vue';
 import Tutorials from './components/Tutorials.vue';
-import Footer from './components/Footer.vue';
+import TheFooter from './components/Footer.vue';
 </script>
 
 <template>
@@ -15,5 +15,5 @@ import Footer from './components/Footer.vue';
   <Tutorials />
   <Service />
   <Contact />
-  <Footer />
+  <TheFooter />
 </template>
